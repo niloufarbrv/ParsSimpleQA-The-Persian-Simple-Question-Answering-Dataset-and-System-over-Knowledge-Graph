@@ -1,3 +1,6 @@
+## ParsSimpleQA: The Persian Simple Question Answering Dataset and System over Knowledge Graph
+This paper is accepted in a Workshop on Natural Language Processing for Digital Humanities [(NLP4HD)](https://rootroo.com/en/nlp4dh-2022/). 
+
 ### Abstrach
 The simple question answering over knowledge graph concerns answering single-relation questions
  by querying the facts in the knowledge graph. This task has drawn significant attention in recent years.
@@ -12,3 +15,4 @@ The simple question answering over knowledge graph concerns answering single-rel
  retrieval techniques to extract information from
  questions to query knowledge graphs for answer generation. The experimental results presented in this paper show that the ParsSimpleQA dataset is promising for the Persian 
 simple question-answering task.
+
